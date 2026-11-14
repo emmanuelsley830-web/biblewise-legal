@@ -1,7 +1,3 @@
-HEAD
-# biblewise-legal
-Official legal documents for the BibleWise mobile application
-
 # BibleWise Legal Website
 
 Static HTML pages for the BibleWise legal website, intended for GitHub Pages.
@@ -31,4 +27,3 @@ Expected URLs:
 - `https://emmanuelsley830-web.github.io/biblewise-legal/`
 - `https://emmanuelsley830-web.github.io/biblewise-legal/privacy-policy.html`
 - `https://emmanuelsley830-web.github.io/biblewise-legal/terms-and-conditions.html`
-f0badd0 (First legal information update)
